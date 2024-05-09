@@ -1,2 +1,2 @@
-# backend-aprendizado-iniciante-crud-em-memoria
-Projeto de missão de aprendizado  iniciante - CRUD em memoria
+# Backend - Iniciante - Missão de Aprendizado: CRUD em Memoria
+Projeto da Missão de Aprendizado: CRUD em Memoria
