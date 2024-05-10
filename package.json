@@ -1,0 +1,15 @@
+{
+  "name": "backend-aprendizado-iniciante-crud-em-memoria",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado: CRUD em Memoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
